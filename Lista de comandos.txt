@@ -11,3 +11,6 @@ Lista de comandos:
 - git remote add origin <código ssh>.
 - git branch -M main (deposita na branch main).
 - git push -u origin main (envia para o repositório online).
+- git add . (adiciona o novo arquivo criado no repositório local).
+- git commit -m "<comentário do commit>"
+- git push -u origin main (envia o arquivo novo para o repositório online).
