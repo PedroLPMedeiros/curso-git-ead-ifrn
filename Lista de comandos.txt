@@ -1,0 +1,13 @@
+Lista de comandos:
+
+- mkdir curso-git-tsi (cria o diretório).
+- cd curso-git-tsi (muda para esse diretório).
+- git - -version (confirma a versão do git que está sendo utilizada).
+- git init --initial-branch=main (cria uma branch main).
+- git config [user.name](http://user.name) “<nome>” e git config [user.email](http://user.email) “<email>”.
+- git ls (para verificar os arquivos listados).
+- git add <arquivo> (adiciona no repositório local).
+- git commit -m “<mensagem>”.
+- git remote add origin <código ssh>.
+- git branch -M main (deposita na branch main).
+- git push -u origin main (envia para o repositório online).
